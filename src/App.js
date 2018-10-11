@@ -1,5 +1,5 @@
 import React, { Component} from "react";
-import { ElementaryComponent } from './elementary-component';
+import { ElementaryComponent } from '../dist/elementary-component';
 
 class App extends Component{
   render(){
